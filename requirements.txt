@@ -1,10 +1,8 @@
 joblib
-joblib
 matplotlib
 numpy
 pandas
 plotly
-plotly
 seaborn
 streamlit
-streamlit
+xgboost
